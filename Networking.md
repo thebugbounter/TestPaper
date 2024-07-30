@@ -1,4 +1,4 @@
-
+# Networking 
 1. How do you display all network interfaces and their IP addresses?
 2. What command can you use to display the routing table?
 3. How do you test the connectivity between your system and another host, such as google.com?
